@@ -1,4 +1,4 @@
-
+# veiktas testam izmainas lokali un tad push to github
 
 # lai lietotu nepieciesams: 
 # python -m pip install --upgrade pip
